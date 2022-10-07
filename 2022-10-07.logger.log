@@ -1,0 +1,5 @@
+INFO:log_main.py:Informações
+WARNING:log_main.py:Warning
+ERROR:log_main.py:error
+WARNING:root:%Y-%m-%d %H:%M:%S
+CRITICAL:log_main.py:log.log
