@@ -1,7 +1,6 @@
 # Estudo do uso da biblioteca logging
 # https://docs.python.org/3/library/logging.html
 
-## https://github.com/WebGlobal/RobotProxy/blob/master/src/settings.py
 
 import datetime
 
