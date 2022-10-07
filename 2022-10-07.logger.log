@@ -1,5 +1,8 @@
-INFO:log_main.py:Informações
-WARNING:log_main.py:Warning
-ERROR:log_main.py:error
-WARNING:root:%Y-%m-%d %H:%M:%S
-CRITICAL:log_main.py:log.log
+2022-10-07 14:56:33,475 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__: Informações
+2022-10-07 14:56:33,475 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__: Warning
+2022-10-07 14:56:33,475 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__: error
+2022-10-07 14:56:33,475 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__: log.log
+2022-10-07 14:59:12,139 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__:23741 INFO Informações
+2022-10-07 14:59:12,139 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__:23741 WARNING Warning
+2022-10-07 14:59:12,139 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__:23741 ERROR error
+2022-10-07 14:59:12,139 /home/webglobal67/Lucas/estudo/logging/log_main.py - __main__:23741 CRITICAL log.log
